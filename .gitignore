@@ -1,0 +1,4 @@
+regex.ipynb
+.jupyter_env
+.venv
+__pycache__
